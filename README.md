@@ -7,7 +7,7 @@ This project uses an LSTM (Long Short-Term Memory) neural network model to gener
 The script performs the following tasks:
 
 1. **Data Preprocessing**: 
-   - Reads the text from a file (`sherlock-holm.es_stories_plain-text_advs.txt`).
+   - Reads the text from a file.
    - Tokenizes the text, converts it into sequences of integers, and creates input sequences for training the model.
    - Pads the sequences to ensure uniform length for training.
    
